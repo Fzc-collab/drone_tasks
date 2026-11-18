@@ -1,0 +1,3 @@
+/home/fzc/drone_task/workspace/c++/build/CMakeFiles/hello_cpp.dir
+/home/fzc/drone_task/workspace/c++/build/CMakeFiles/edit_cache.dir
+/home/fzc/drone_task/workspace/c++/build/CMakeFiles/rebuild_cache.dir
